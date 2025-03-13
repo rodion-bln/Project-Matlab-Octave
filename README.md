@@ -1,8 +1,4 @@
-# Tema 2 Metode Numerice 
-
-## Elaborat de:
-
-Balaniuc Rodion 315CB
+Balaniuc Rodion
 
 ## Task 1 - Numerical Music
 
